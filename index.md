@@ -1,6 +1,6 @@
 ## MAIN PAGE
 
-This is an open source game coded in python by DogoHax on YouTube. All code is owned by https://www.python-hunting.org and just shown here.
+This is an open source game coded in python by DogoHax on YouTube. All code is owned by [PythonHunting](https://python-hunting.org) and just shown here.
 
 ### Why us
 
@@ -12,12 +12,8 @@ CODE:
 `print("CODE COMING SOON...")`
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Version
+We are currently in release state so update will come soon and will be running.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BannaBoneofficialYT/PythonGame/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Python?
+Python is a free to use programing language used to make many things such as FNAF and other awsome things. Its one of the most popular programing laguages out there!
