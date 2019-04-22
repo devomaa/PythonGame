@@ -6,22 +6,10 @@ This is an open source game coded in python by DogoHax on YouTube. All code is o
 
 We will respond to any errors found in the code and will use updated code when its outdated. We are verified to code and program and to make sure its up to date. We are making videos on the code at are channel: DogoHax.
 
+
+CODE:
 ```markdown
-
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+`print("CODE COMING SOON...")`
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
