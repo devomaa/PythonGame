@@ -1,6 +1,6 @@
 ## MAIN PAGE
 
-This is an open source game coded in python by DogoHax on YouTube. All code is owned by [PythonHunting](https://python-hunting.org) and just shown here.
+This is an open source game coded in python by DogoHax on YouTube. All code is owned by [PythonHunting](https://pythonhunting.github.io/) and just shown here.
 
 ### Why us
 
