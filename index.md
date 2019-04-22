@@ -17,3 +17,6 @@ We are currently in release state so update will come soon and will be running.
 
 ### Python?
 Python is a free to use programing language used to make many things such as FNAF and other awsome things. Its one of the most popular programing laguages out there!
+
+### Code
+We have coded all of this using either notepad++ or the built in editor: IDLE. any is fine. Why not an IDE? IDE's are called anoying when it comes to doing this type or stuff so we try something else instead of Visual Studio and stuff. We use a `TEXT EDITOR!`
