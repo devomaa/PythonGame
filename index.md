@@ -9,7 +9,7 @@ We will respond to any errors found in the code and will use updated code when i
 
 CODE:
 ```markdown
-`print("CODE COMING SOON...")`
+print("CODE COMING SOON...")
 ```
 
 ### Version
